@@ -1,6 +1,34 @@
 {
-  "version": 3,
+  "version": 4,
   "tips": [
+    {
+      "icon": "🎵",
+      "title": "A song for every story",
+      "message": "Each new story gets its own little tune, composed right on the phone.",
+      "titleRo": "Un cântec pentru fiecare poveste",
+      "messageRo": "Fiecare poveste nouă primește melodia ei, compusă chiar pe telefon."
+    },
+    {
+      "icon": "🎼",
+      "title": "Every world sounds different",
+      "message": "Bedtime hums a lullaby, the park bounces: each world has its own music.",
+      "titleRo": "Fiecare lume sună altfel",
+      "messageRo": "Seara cântă încet, parcul țopăie: fiecare lume are muzica ei."
+    },
+    {
+      "icon": "🔂",
+      "title": "Same story, same song",
+      "message": "Play a saved story again and its own tune comes back with it.",
+      "titleRo": "Aceeași poveste, același cântec",
+      "messageRo": "Reascultă o poveste salvată și melodia ei revine odată cu ea."
+    },
+    {
+      "icon": "📊",
+      "title": "Your week, by maker",
+      "message": "Your week now shows Surprise, Custom and Plan stories on their own rows.",
+      "titleRo": "Săptămâna ta, pe surse",
+      "messageRo": "Săptămâna arată separat poveștile din Surpriză, Ideea ta și Plan."
+    },
     {
       "icon": "sun.max.fill",
       "title": "Tonight's story becomes tomorrow's quiz",
