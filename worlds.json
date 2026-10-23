@@ -297,6 +297,96 @@
         "climb"
       ]
     },
+    "dice": {
+      "meter": 4,
+      "bpm": [
+        112,
+        124
+      ],
+      "mode": "major",
+      "lead_octave": 4,
+      "parts": {
+        "lead": {
+          "instrument": "marimba",
+          "velocity": 76,
+          "double": {
+            "instrument": "glockenspiel",
+            "velocity": 30
+          }
+        },
+        "lead_alt": {
+          "instrument": "recorder",
+          "velocity": 62
+        },
+        "accompaniment": {
+          "instrument": "strumstick",
+          "velocity": 52,
+          "pattern": "strum"
+        },
+        "sparkle": {
+          "instrument": "xylophone",
+          "velocity": 46
+        },
+        "pad": {
+          "instrument": "strings",
+          "velocity": 34
+        },
+        "bass": {
+          "instrument": "tuba",
+          "velocity": 60
+        }
+      },
+      "motifs": [
+        "bounce",
+        "hop",
+        "skip",
+        "turn",
+        "climb"
+      ]
+    },
+    "custom": {
+      "meter": 4,
+      "bpm": [
+        88,
+        98
+      ],
+      "mode": "major",
+      "lead_octave": 4,
+      "parts": {
+        "lead": {
+          "instrument": "strumstick",
+          "velocity": 64
+        },
+        "lead_alt": {
+          "instrument": "flute",
+          "velocity": 58
+        },
+        "accompaniment": {
+          "instrument": "piano",
+          "velocity": 44,
+          "pattern": "broken"
+        },
+        "sparkle": {
+          "instrument": "glockenspiel",
+          "velocity": 36
+        },
+        "pad": {
+          "instrument": "strings",
+          "velocity": 36
+        },
+        "bass": {
+          "instrument": "upright bass",
+          "velocity": 58
+        }
+      },
+      "motifs": [
+        "stepup",
+        "turn",
+        "sigh",
+        "chant",
+        "skip"
+      ]
+    },
     "christmas": {
       "meter": 3,
       "bpm": [
@@ -402,7 +492,43 @@
       }
     },
     "mothersday": {
-      "base": "family"
+      "meter": 3,
+      "bpm": [
+        80,
+        90
+      ],
+      "mode": "major",
+      "lead_octave": 4,
+      "parts": {
+        "lead": {
+          "instrument": "piano",
+          "velocity": 60
+        },
+        "lead_alt": {
+          "instrument": "flute",
+          "velocity": 54
+        },
+        "accompaniment": {
+          "instrument": "harp",
+          "velocity": 46,
+          "pattern": "broken"
+        },
+        "pad": {
+          "instrument": "strings",
+          "velocity": 40
+        },
+        "bass": {
+          "instrument": "upright bass",
+          "velocity": 54
+        }
+      },
+      "motifs": [
+        "lilt",
+        "arch",
+        "waltzstep",
+        "fall",
+        "hold"
+      ]
     },
     "fathersday": {
       "base": "family",
@@ -423,7 +549,43 @@
       }
     },
     "autumn": {
-      "base": "family"
+      "meter": 4,
+      "bpm": [
+        84,
+        94
+      ],
+      "mode": "minor",
+      "lead_octave": 4,
+      "parts": {
+        "lead": {
+          "instrument": "flute",
+          "velocity": 56
+        },
+        "lead_alt": {
+          "instrument": "oboe",
+          "velocity": 58
+        },
+        "accompaniment": {
+          "instrument": "harp",
+          "velocity": 46,
+          "pattern": "rocking arpeggio"
+        },
+        "pad": {
+          "instrument": "strings",
+          "velocity": 38
+        },
+        "bass": {
+          "instrument": "bassoon",
+          "velocity": 52
+        }
+      },
+      "motifs": [
+        "sigh",
+        "stepdown",
+        "turn",
+        "chant",
+        "hold"
+      ]
     },
     "winter": {
       "base": "christmas",
@@ -432,7 +594,51 @@
       }
     },
     "spring": {
-      "base": "park"
+      "meter": 4,
+      "bpm": [
+        100,
+        112
+      ],
+      "mode": "major",
+      "lead_octave": 4,
+      "parts": {
+        "lead": {
+          "instrument": "recorder",
+          "velocity": 60,
+          "double": {
+            "instrument": "glockenspiel",
+            "velocity": 26
+          }
+        },
+        "lead_alt": {
+          "instrument": "flute",
+          "velocity": 60
+        },
+        "accompaniment": {
+          "instrument": "harp",
+          "velocity": 50,
+          "pattern": "broken"
+        },
+        "sparkle": {
+          "instrument": "xylophone",
+          "velocity": 44
+        },
+        "pad": {
+          "instrument": "strings",
+          "velocity": 36
+        },
+        "bass": {
+          "instrument": "upright bass",
+          "velocity": 56
+        }
+      },
+      "motifs": [
+        "hop",
+        "skip",
+        "stepup",
+        "turn",
+        "climb"
+      ]
     },
     "summer": {
       "base": "park",
