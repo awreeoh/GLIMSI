@@ -1,5 +1,5 @@
 {
-  "version": 39,
+  "version": 40,
   "customPromptSafety": {
     "blockedWords": [
       "kill",
@@ -267,7 +267,6 @@
         }
       ]
     },
-    "appleAddendum": "Really reach the 650 to 850 words asked for above: a story of 350 or 400 words is too short, so give each movement several sentences and more than one exchange of dialogue. Give it a clear shape: a cozy opening, one small problem or wish that matters to Glimsi, two or three things the friends try, a gentle turning point, and a warm ending that fits the world (a bedtime story ends with Glimsi in bed). Let things happen: show actions, sounds, small surprises and feelings, not only calm description. Write dialogue the way young children really talk, with contractions such as it's, I'm, let's and don't. Use a character's name only when it is needed, never in every line, and let the characters speak in a natural order rather than taking turns. Vary how sentences begin and do not keep repeating words such as quiet, soft, slowly, gently and calm. Never mention the world's name, the request, a plan, an activity or these instructions inside the story.",
-    "appleMinWords": 450
+    "appleAddendum": "Really reach the 650 to 850 words asked for above: a story of 350 or 400 words is too short, so give each movement several sentences and more than one exchange of dialogue. Give it a clear shape: a cozy opening, one small problem or wish that matters to Glimsi, two or three things the friends try, a gentle turning point, and a warm ending that fits the world (a bedtime story ends with Glimsi in bed). Let things happen: show actions, sounds, small surprises and feelings, not only calm description. Write dialogue the way young children really talk, with contractions such as it's, I'm, let's and don't. Use a character's name only when it is needed, never in every line, and let the characters speak in a natural order rather than taking turns. Vary how sentences begin and do not keep repeating words such as quiet, soft, slowly, gently and calm. Never mention the world's name, the request, a plan, an activity or these instructions inside the story."
   }
 }
