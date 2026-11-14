@@ -1,5 +1,316 @@
 {
   "//": "Per-world music presets. A score names its world; the score may override bpm/key/parts. 'motifs' lists the melody patterns that suit the world (the director prefers these). Seasonal worlds can 'base' on another and override fields. A lead part may carry 'double': {instrument, velocity, octave} to double the tune in unison.",
+  "//wordMatch": "Custom ideas and dice rolls pick their tune's world from their words (StoryMusic.matchedWorld), before the story is written. English and Romanian, lowercase, without diacritics. A word of 4+ letters matches the start of a word in the idea (zapad → zăpada, zăpezii stay apart: list both stems); shorter ones and phrases match whole. Most matches wins; a tie goes to the world listed first. No match: the composer page's own world.",
+  "wordMatch": [
+    {
+      "world": "christmas",
+      "words": [
+        "christmas",
+        "santa",
+        "reindeer",
+        "elves",
+        "sleigh",
+        "ornament",
+        "craciun",
+        "mos craciun",
+        "reni",
+        "spiridus",
+        "colind"
+      ]
+    },
+    {
+      "world": "halloween",
+      "words": [
+        "halloween",
+        "pumpkin",
+        "witch",
+        "costume",
+        "ghost",
+        "dovleac",
+        "vrajitoar",
+        "costum",
+        "fantom"
+      ]
+    },
+    {
+      "world": "easter",
+      "words": [
+        "easter",
+        "egg hunt",
+        "paste",
+        "oua de paste",
+        "iepuras de paste"
+      ]
+    },
+    {
+      "world": "newyears",
+      "words": [
+        "new year",
+        "firework",
+        "countdown",
+        "anul nou",
+        "revelion",
+        "artificii"
+      ]
+    },
+    {
+      "world": "mothersday",
+      "words": [
+        "mother's day",
+        "mothers day",
+        "ziua mamei"
+      ]
+    },
+    {
+      "world": "fathersday",
+      "words": [
+        "father's day",
+        "fathers day",
+        "ziua tatalui"
+      ]
+    },
+    {
+      "world": "thanksgiving",
+      "words": [
+        "thanksgiving",
+        "ziua recunostintei"
+      ]
+    },
+    {
+      "world": "winter",
+      "words": [
+        "snow",
+        "sled",
+        "sledge",
+        "skate",
+        "skating",
+        "icicle",
+        "frost",
+        "frozen",
+        "winter",
+        "mitten",
+        "igloo",
+        "penguin",
+        "polar",
+        "zapad",
+        "zapez",
+        "ninsoare",
+        "ninge",
+        "fulg",
+        "sanie",
+        "saniu",
+        "patin",
+        "gheat",
+        "iarn",
+        "manus",
+        "iglu",
+        "pinguin"
+      ]
+    },
+    {
+      "world": "autumn",
+      "words": [
+        "autumn",
+        "leaves",
+        "acorn",
+        "harvest",
+        "orchard",
+        "toamn",
+        "frunz",
+        "ghind",
+        "recolt",
+        "livad"
+      ]
+    },
+    {
+      "world": "spring",
+      "words": [
+        "spring flowers",
+        "flower",
+        "blossom",
+        "bloom",
+        "butterfl",
+        "tulip",
+        "primavar",
+        "flori",
+        "floare",
+        "fluture",
+        "lalea",
+        "lalele"
+      ]
+    },
+    {
+      "world": "summer",
+      "words": [
+        "summer",
+        "beach",
+        "ocean",
+        "seaside",
+        "swim",
+        "sandcastle",
+        "seashell",
+        "vara",
+        "plaj",
+        "inot",
+        "nisip",
+        "scoic"
+      ]
+    },
+    {
+      "world": "bedtime",
+      "words": [
+        "sleep",
+        "bedtime",
+        "lullaby",
+        "pillow",
+        "pajama",
+        "pyjama",
+        "dream",
+        "somn",
+        "adorm",
+        "culcare",
+        "cantec de leagan",
+        "pern",
+        "pijama",
+        "visul",
+        "vise"
+      ]
+    },
+    {
+      "world": "emotions",
+      "words": [
+        "scared",
+        "afraid",
+        "fear",
+        "sad",
+        "angry",
+        "cry",
+        "crying",
+        "worried",
+        "nervous",
+        "shy",
+        "feeling",
+        "dentist",
+        "doctor",
+        "vaccin",
+        "hospital",
+        "frica",
+        "speri",
+        "trist",
+        "supar",
+        "furi",
+        "plang",
+        "ingrijor",
+        "emoti",
+        "timid",
+        "medic",
+        "spital"
+      ]
+    },
+    {
+      "world": "explorer",
+      "words": [
+        "dragon",
+        "castle",
+        "knight",
+        "princess",
+        "prince",
+        "treasure",
+        "pirate",
+        "map",
+        "cave",
+        "jungle",
+        "dinosaur",
+        "rocket",
+        "space",
+        "planet",
+        "volcano",
+        "island",
+        "compass",
+        "castel",
+        "cavaler",
+        "printes",
+        "printul",
+        "comoar",
+        "pirat",
+        "harta",
+        "pester",
+        "jungl",
+        "dinozaur",
+        "rachet",
+        "spatiu",
+        "planet",
+        "vulcan",
+        "insul",
+        "busol"
+      ]
+    },
+    {
+      "world": "kindergarten",
+      "words": [
+        "kindergarten",
+        "school",
+        "teacher",
+        "classroom",
+        "preschool",
+        "crayon",
+        "gradinit",
+        "scoal",
+        "educatoar",
+        "invatatoar",
+        "creioan"
+      ]
+    },
+    {
+      "world": "park",
+      "words": [
+        "park",
+        "playground",
+        "swing",
+        "slide",
+        "sandbox",
+        "picnic",
+        "kite",
+        "bike",
+        "bicycle",
+        "scooter",
+        "parc",
+        "loc de joaca",
+        "leagan",
+        "tobogan",
+        "zmeu",
+        "bicicl",
+        "trotinet"
+      ]
+    },
+    {
+      "world": "family",
+      "words": [
+        "family",
+        "mom",
+        "mum",
+        "mommy",
+        "dad",
+        "daddy",
+        "grandma",
+        "grandpa",
+        "granny",
+        "brother",
+        "sister",
+        "cooking",
+        "baking",
+        "familie",
+        "mama",
+        "tata",
+        "bunic",
+        "frat",
+        "sora",
+        "surior",
+        "gatit",
+        "prajitur"
+      ]
+    }
+  ],
   "worlds": {
     "kindergarten": {
       "meter": 4,
