@@ -3320,7 +3320,21 @@
             "what will happen on the next day of kindergarten"
           ],
           "endingImage": "Glimsi waving goodbye to Lucy and Noah with a smile"
-        }
+        },
+        "askGlimsi": [
+          {
+            "question": "Why did my tummy feel fluttery?",
+            "answer": "It was my very first day of kindergarten, so it felt like tiny butterflies were dancing inside me."
+          },
+          {
+            "question": "What did we draw together?",
+            "answer": "I drew a big yellow sun, Lucy drew a house with flowers, and Noah added a swing set."
+          },
+          {
+            "question": "What made the butterflies calm down?",
+            "answer": "Finding out Lucy felt the same way. Then drawing and building a tower with my new friends made them turn into excitement."
+          }
+        ]
       },
       {
         "id": "free-the-loudest-feeling",
@@ -3404,7 +3418,21 @@
             "building a bridge together next time"
           ],
           "endingImage": "Glimsi, Ben, and Ruby sitting peacefully on the rug with neatly stacked blocks nearby"
-        }
+        },
+        "askGlimsi": [
+          {
+            "question": "Why did my tower fall?",
+            "answer": "My elbow bumped the table, and the whole tower swayed and crashed onto the rug."
+          },
+          {
+            "question": "How did the angry storm go away?",
+            "answer": "Ruby showed me how to name the feeling and breathe slowly, like smelling a flower and blowing a leaf across a pond."
+          },
+          {
+            "question": "What did we build after that?",
+            "answer": "A wide bridge, all three of us together, instead of a tall tower."
+          }
+        ]
       },
       {
         "id": "free-the-puddle-explorers",
@@ -3488,7 +3516,21 @@
             "returning after the next rain"
           ],
           "endingImage": "Glimsi, Jack, and Zoe walking away from the shrinking puddle while holding a notebook"
-        }
+        },
+        "askGlimsi": [
+          {
+            "question": "What did we see in the big puddle?",
+            "answer": "A whole upside-down park, with the sky at the bottom and the trees reaching down."
+          },
+          {
+            "question": "Who drew our map?",
+            "answer": "Zoe drew it in her little notebook while Jack and I told her everything we saw."
+          },
+          {
+            "question": "What looked like a little boat?",
+            "answer": "A shiny pebble at the bottom of the puddle. It looked like a boat sailing across the clouds."
+          }
+        ]
       },
       {
         "id": "free-grandpas-secret-recipe",
@@ -3571,7 +3613,21 @@
           ],
           "openThreads": [],
           "endingImage": "Glimsi, Finn, and Daisy sitting at the kitchen table eating pancakes together with smiles"
-        }
+        },
+        "askGlimsi": [
+          {
+            "question": "Why couldn't we read the recipe?",
+            "answer": "The last ingredient was smudged, maybe by a drop of coffee or syrup from last Sunday."
+          },
+          {
+            "question": "What was the secret ingredient?",
+            "answer": "Vanilla! It made the pancakes taste warm and cozy, just like Grandpa's."
+          },
+          {
+            "question": "How did we find out?",
+            "answer": "We tasted the batter, lined up everything that started with b or v, and made a tiny test pancake with a drop of vanilla."
+          }
+        ]
       },
       {
         "id": "free-the-lost-sock-mystery",
@@ -3654,7 +3710,21 @@
           ],
           "openThreads": [],
           "endingImage": "Glimsi smiling with both striped socks on while building a tall block tower with Leo and Ella"
-        }
+        },
+        "askGlimsi": [
+          {
+            "question": "Where was my missing sock?",
+            "answer": "On the porch, hanging on the handle of the broom. The wind must have put it there."
+          },
+          {
+            "question": "What clues did I follow?",
+            "answer": "Tiny blue and yellow threads from my striped sock, all the way through the house."
+          },
+          {
+            "question": "What did I use to look for clues?",
+            "answer": "My magnifying glass from the toy shelf, just like a real detective."
+          }
+        ]
       },
       {
         "id": "free-the-sleepy-lighthouse",
@@ -3734,7 +3804,21 @@
           ],
           "openThreads": [],
           "endingImage": "peaceful lighthouse beam over calm dark sea at night"
-        }
+        },
+        "askGlimsi": [
+          {
+            "question": "Why was the lighthouse so sleepy?",
+            "answer": "It works hard all night so the boats can find their way, and its light was flickering a little."
+          },
+          {
+            "question": "How many boats did we count?",
+            "answer": "Seven boats came home safely, and Mia kept a pebble for every one."
+          },
+          {
+            "question": "What did Sam give me?",
+            "answer": "A soft blanket. He tucked it around my shoulders while we counted."
+          }
+        ]
       }
     ],
     "ro": [
@@ -3820,7 +3904,21 @@
             "promisiunea de a sta împreună mâine"
           ],
           "endingImage": "Glimsi zâmbind cu desenul în mână lângă Sofia și Matei"
-        }
+        },
+        "askGlimsi": [
+          {
+            "question": "De ce aveam fluturi în burtică?",
+            "answer": "Era prima mea zi de grădiniță, așa că parcă un stol de fluturi zbura în toate direcțiile înăuntrul meu."
+          },
+          {
+            "question": "Ce am construit cu Sofia și Matei?",
+            "answer": "Un castel din cuburi, ca fluturii noștri să aibă unde să se odihnească. Matei a găsit și un animăluț care să locuiască în el."
+          },
+          {
+            "question": "Cum s-au liniștit fluturii?",
+            "answer": "Când am aflat că și Sofia simțea la fel, nu m-am mai simțit singură. Desenând și construind împreună, fluturii au zburat tot mai încet."
+          }
+        ]
       },
       {
         "id": "free-the-loudest-feeling-ro",
@@ -3902,7 +4000,21 @@
           ],
           "openThreads": [],
           "endingImage": "Glimsi zâmbind lângă turnul reconstruit cu Vlad și Miruna"
-        }
+        },
+        "askGlimsi": [
+          {
+            "question": "De ce a căzut turnul meu?",
+            "answer": "Ușa s-a deschis puțin și o adiere de vânt a clătinat cuburile de sus, iar turnul a căzut pe covor."
+          },
+          {
+            "question": "Cum a trecut furtuna din mine?",
+            "answer": "Miruna m-a învățat să inspir încet, ca și cum aș mirosi o floare, și să expir ca și cum aș sufla o frunză departe. Am făcut asta de trei ori."
+          },
+          {
+            "question": "Ce am construit după aceea?",
+            "answer": "Un turn nou, cub cu cub, împreună cu Vlad și Miruna. Era mai mic, dar stătea drept și frumos."
+          }
+        ]
       },
       {
         "id": "free-the-puddle-explorers-ro",
@@ -3987,7 +4099,21 @@
             "returning after next rain to explore again"
           ],
           "endingImage": "Glimsi, Luca, and Daria sitting by the drying puddle with their mud map"
-        }
+        },
+        "askGlimsi": [
+          {
+            "question": "Ce am văzut în băltoaca cea mare?",
+            "answer": "O lume întreagă răsturnată, cu copaci care creșteau în jos și nori care pluteau pe fund."
+          },
+          {
+            "question": "Unde am desenat harta?",
+            "answer": "În noroiul de lângă băltoacă, cu niște bețe. Luca a pus pietricele colorate ca marcaje."
+          },
+          {
+            "question": "Ce era Cărarea Norilor?",
+            "answer": "Așa a numit Luca poteca pe care o vedeam răsturnată în apă."
+          }
+        ]
       },
       {
         "id": "free-grandpas-secret-recipe-ro",
@@ -4070,7 +4196,21 @@
           ],
           "openThreads": [],
           "endingImage": "Glimsi și prietenii ei zâmbind la masă cu farfurii de clătite"
-        }
+        },
+        "askGlimsi": [
+          {
+            "question": "De ce nu puteam citi rețeta?",
+            "answer": "Ultimul ingredient era șters de o pată mare de apă, iar literele se amestecaseră."
+          },
+          {
+            "question": "Care era ingredientul secret?",
+            "answer": "Esența de lămâie! Am mirosit sticluțele din dulap și am recunoscut mirosul de duminică al bunicului."
+          },
+          {
+            "question": "Câte picături am pus în aluat?",
+            "answer": "Trei picături de esență de lămâie, puse cu grijă, apoi am amestecat din nou."
+          }
+        ]
       },
       {
         "id": "free-the-lost-sock-mystery-ro",
@@ -4151,7 +4291,21 @@
           ],
           "openThreads": [],
           "endingImage": "Glimsi zâmbind cu ciorapii ei pe picioare, alături de Matei și Bianca în camera de joacă"
-        }
+        },
+        "askGlimsi": [
+          {
+            "question": "Unde era ciorapul meu?",
+            "answer": "În camera de joacă, sub o pernă mare. Pisica vecinului îl luase ca să se joace cu el."
+          },
+          {
+            "question": "Ce indicii am urmat?",
+            "answer": "Niște fire mici de lână roșie și apoi unul albastru, care duceau prin toată casa."
+          },
+          {
+            "question": "Cine a văzut pisica?",
+            "answer": "Bianca. A văzut pisica vecinului strecurându-se pe fereastra deschisă și jucându-se cu ceva colorat."
+          }
+        ]
       },
       {
         "id": "free-the-sleepy-lighthouse-ro",
@@ -4233,7 +4387,21 @@
           ],
           "openThreads": [],
           "endingImage": "Glimsi stând lângă farul care strălucește blând sub stele"
-        }
+        },
+        "askGlimsi": [
+          {
+            "question": "De ce era farul obosit?",
+            "answer": "Vlad strălucea toată noaptea ca să arate drumul bărcilor și se simțea singur."
+          },
+          {
+            "question": "Câte bărci am numărat împreună?",
+            "answer": "Douăzeci de bărci, toate ajunse acasă datorită luminii lui Vlad."
+          },
+          {
+            "question": "Ce am adus cu mine la far?",
+            "answer": "O pătură moale. Mi-am tras-o peste genunchi și am stat lângă Vlad."
+          }
+        ]
       }
     ]
   }
